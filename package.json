@@ -1,0 +1,16 @@
+{
+  "name": "com.phun.phengine.json",
+  "displayName": "PhEngine JSON",
+  "version": "0.1.1",
+  "description": "PhEngine JSON package",
+  "keywords": [],
+  "dependencies": {
+    "com.phun.phengine.core": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:phanphantz/PhEngine.git"
+  },
+  "license": "MIT",
+  "author": "Phun Peeticharoenthum"
+}
